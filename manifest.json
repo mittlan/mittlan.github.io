@@ -1,0 +1,13 @@
+{
+    "name": "STUK.CO",
+    "short_name": "STUK.CO",
+    "lang": "en-US",
+    "display": "standalone",
+    "orientation": "portrait",
+    "start_url": "https://mysite/",
+    "scope": "https://mysite/",
+    "permissions": [ 
+      "unlimitedStorage",
+      "fullscreen"
+     ]
+  }
